@@ -1,0 +1,36 @@
+/* Apply styles to an HTML tag using a selector */
+h1 {
+    color: blue;
+}
+
+/* Create a CSS class and apply it to at least two elements */
+.custom-class {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* Create an ID and apply it to an element */
+#unique-id {
+    background-color: yellow;
+}
+
+/* Create two sections using <div> */
+.section {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* Change link color on hover using a selector */
+a:hover {
+    color: red;
+}
+
+/* Change box model properties for a different element */
+.box-properties {
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid green;
+}
